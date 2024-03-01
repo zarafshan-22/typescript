@@ -1,4 +1,4 @@
-This file is just about printig "Hello World" on Typescript and Java
+This file is just about to create "Hello World"program in Typescript and Java
 # TypeScript:
 - *TypeScript* is a statically typed superset of JavaScript.
 - Needs to be *compiled* to JavaScript.
